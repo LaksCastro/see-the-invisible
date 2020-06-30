@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./public/dual-colors.png" width="150">
   <h1 align="center">Dual Colors</h1>
+  <h4 align="center"><a href="https://lakscastro.github.io/dual-colors"><code>Play in Browser</code></a></h4>
   <p align="center">A creational UI based on a Pinterest idea about palette with two colors</p>
   <p align="center">
     <img src="https://img.shields.io/badge/type-project-orange" alt="Repo Type" />
