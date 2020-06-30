@@ -55,9 +55,9 @@ git clone https://github.com/LaksCastro/dual-colors.git
 npm install || yarn install
 ```
 
-3. Start Webpack Dev Server:
+3. Start Parcel Dev Server:
 ```
-npm run start || yarn start
+npm run dev || yarn dev
 ```
 
 4. Generate Build
