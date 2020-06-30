@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "parcel public/index.html --out-dir development -p 3000",
-    "build": "parcel build public/index.html --out-dir dist --public-url /dual-colors"
+    "build": "parcel build public/index.html --out-dir dist --public-url /dual-colors",
+    "deploy": "yarn build && node publish.js"
   },
   "repository": {
     "type": "git",
@@ -26,11 +27,12 @@
   "bugs": {
     "url": "https://github.com/LaksCastro/dual-colors/issues"
   },
-  "homepage": "hhttps://lakscastro.xyz/dual-colors",
+  "homepage": "hhttps://lakscastro.github.io/dual-colors",
   "devDependencies": {
     "@babel/core": "^7.9.0",
     "@babel/plugin-transform-runtime": "^7.9.0",
     "@babel/runtime-corejs2": "^7.9.2",
+    "gh-pages": "^3.1.0",
     "parcel-bundler": "^1.12.4",
     "sass": "^1.26.3",
     "typescript": "^3.9.5"
