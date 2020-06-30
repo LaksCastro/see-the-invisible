@@ -34,7 +34,7 @@ Learn to work with Vanilla Js: Routes, DOM manipulation, all together with Webpa
 1. Clone the repository using the Github client of your choice, or download the repository
 Using the Github client via the command line:
 ```
-git clone https://github.com/LaksCastro/colorful.git
+git clone https://github.com/LaksCastro/dual-colors.git
 ```
 
 2. Install the dependencies:
@@ -42,35 +42,19 @@ git clone https://github.com/LaksCastro/colorful.git
 npm install || yarn install
 ```
 
-3. Create your .env.dev file and put the route we are working on as `PATH_BASE = /`, because the Webpack Dev Server uses the local server with this address http://localhost:3000/
-```
-# .env.dev
-
-BASE_PATH=/
-```
-
-Do the same for .env.prod if you are going to use this project in production, but now put the name of the route relative to your server, in the case of this repository: `BASE_PATH=/colorful`
-
-4. Start Webpack Dev Server:
+3. Start Webpack Dev Server:
 ```
 npm run start || yarn start
 ```
 
-5. Generate Build
+4. Generate Build
 ```
 npm run build || yarn build
 ```
 
 ## Built with
-* [Webpack 4](https://webpack.js.org/) - Module Bundler.
-* [Babel](https://babeljs.io/) - JavaScript transpiler.
-* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript) - Language
-
-## Authors
-* [Laks Castro](https://github.com/LaksCastro) - /lakscastro
-
-## Contributors
-* [Gustavo](https://github.com/freazesss) - /freazesss
+* [Typescript](https://webpack.js.org/) - Module Bundler.
+* [Ethereal Color](https://lakscastro.xyz/ethereal-color) - Color Library.
 
 <br>
 <br>
@@ -83,7 +67,7 @@ npm run build || yarn build
 <p align="center">
   <sub>Copyright © 2020-present, Laks Castro.</sub>
 </p>
-<p align="center">Colorful <a href="https://github.com/LaksCastro/colorful/blob/master/LICENSE.md">is MIT licensed 💖</a></p>
+<p align="center">Dual Colors <a href="https://github.com/LaksCastro/dual=colors/blob/master/LICENSE.md">is MIT licensed 💖</a></p>
 <p align="center">
-  <img src="./src/assets/images/logo.png" width="35" />
+  <img src="./public/dual-colors.png" width="35" />
 </p>
