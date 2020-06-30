@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./public/dual-colors.png" width="150">
   <h1 align="center">Dual Colors</h1>
-  <p align="center">A creational UI (Left) based on a Pinterest idea (Right) about palette with two colors</p>
+  <p align="center">A creational UI based on a Pinterest idea about palette with two colors</p>
   <p align="center">
     <img src="https://img.shields.io/badge/type-project-orange" alt="Repo Type" />
     <img src="https://img.shields.io/badge/language-typescript-blue" alt="Repo Main Language" />
@@ -15,8 +15,14 @@
 </p>
 
 <p align="center">
-  <img width="450" src="./public/screenshot.png">
-  <img width="450" src="./public/idea.jpg">
+  <div>
+    <img width="450" src="./public/screenshot.png">
+    Fig 1. Interface
+  </div>
+  <div>
+    <img width="450" src="./public/idea.jpg">
+    Fig 2. Pinterest Idea
+  </div>
 </p>
 
 ## How to use
