@@ -1,0 +1,43 @@
+{
+  "name": "NOME_DO_PROJETO",
+  "version": "1.0.0",
+  "description": "DESCRIÇÃO_DO_PROJETO",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel public/index.html --out-dir development -p 3000",
+    "build": "parcel build public/index.html --out-dir dist --public-url ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LaksCastro/NOME_DO_REPOSITÓRIO.git"
+  },
+  "keywords": [
+    "KEYWORDS",
+    "DO",
+    "PROJETO"
+  ],
+  "author": "Laks Castro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LaksCastro/NOME_DO_REPOSITÓRIO/issues"
+  },
+  "homepage": "https://github.com/LaksCastro/NOME_DO_REPOSITÓRIO/#readme",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/plugin-transform-runtime": "^7.9.0",
+    "@babel/runtime-corejs2": "^7.9.2",
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.26.3",
+    "typescript": "^3.9.5"
+  },
+  "dependencies": {
+    "@barba/core": "^2.9.7",
+    "@barba/router": "^2.1.10",
+    "@types/animejs": "^3.1.1",
+    "animejs": "^3.2.0",
+    "bulma": "^0.9.0",
+    "ethereal-color": "^0.0.5",
+    "lodash.throttle": "^4.1.1",
+    "waveform-data": "^3.3.2"
+  }
+}
