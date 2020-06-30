@@ -15,16 +15,24 @@
 </p>
 
 <p align="center">
-  <div>
-    <img width="450" src="./public/screenshot.png">
-    <br>
-    Fig 1. Interface
-  </div>
-  <div>
-    <img width="450" src="./public/idea.jpg">
-    <br>
-    Fig 2. Pinterest Idea
-  </div>
+  <table>
+    <thead>
+      <th>
+        <img width="450" src="./public/screenshot.png">
+      </th>
+      <th>
+        <img width="450" src="./public/idea.jpg">
+      </th>
+    </thead>
+    <tbody>
+      <td>
+        Fig 1. Interface
+      </td>
+      <td>
+        Fig 2. Pinterest Idea
+      </td>
+    </tbody>
+  </table>
 </p>
 
 ## How to use
