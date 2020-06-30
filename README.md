@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./src/assets/images/logo.png" width="150">
+  <img src="./public/dual-colors.png" width="150">
   <h1 align="center">Colorful</h1>
   <p align="center">A creational UI based on a Pinterest idea about palette with two colors</p>
   <p align="center">
