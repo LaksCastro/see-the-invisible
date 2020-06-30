@@ -36,10 +36,7 @@
 </p>
 
 ## How to use
-Is very simple, open [Colorful Website](https://lakscastro.github.io/colorful/) and browse between infinite color palettes, liked any? Just click on heart button that she will be saved in browser storage,  and for see your saved palettes click on hamburger menu and click in "My Palette's" button, all of these will appear there :) Dark and light theme supported, to toggle click on button in bottom left.
-
-## Project's Goal
-Learn to work with Vanilla Js: Routes, DOM manipulation, all together with Webpack 4 and Babel for the app divided into modules and compatible with most browsers
+Just open the [Dual Colors Website](https://lakscastro.xyz/dual-colors) and enjoy
 
 ## Clone the repository for your machine
 ### Requirements
