@@ -1,27 +1,32 @@
 {
-  "name": "NOME_DO_PROJETO",
+  "name": "dual-colors",
   "version": "1.0.0",
-  "description": "DESCRIÇÃO_DO_PROJETO",
+  "description": "A creational UI based on a Pinterest idea about palette with two colors",
   "main": "index.js",
   "scripts": {
     "dev": "parcel public/index.html --out-dir development -p 3000",
-    "build": "parcel build public/index.html --out-dir dist --public-url ./"
+    "build": "parcel build public/index.html --out-dir dist --public-url /dual-colors"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LaksCastro/NOME_DO_REPOSITÓRIO.git"
+    "url": "https://github.com/LaksCastro/dual-colors.git"
   },
   "keywords": [
-    "KEYWORDS",
-    "DO",
-    "PROJETO"
+    "dual",
+    "colors",
+    "palette",
+    "ui",
+    "simple",
+    "javascript",
+    "typescript",
+    "css"
   ],
   "author": "Laks Castro",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/LaksCastro/NOME_DO_REPOSITÓRIO/issues"
+    "url": "https://github.com/LaksCastro/dual-colors/issues"
   },
-  "homepage": "https://github.com/LaksCastro/NOME_DO_REPOSITÓRIO/#readme",
+  "homepage": "hhttps://lakscastro.xyz/dual-colors",
   "devDependencies": {
     "@babel/core": "^7.9.0",
     "@babel/plugin-transform-runtime": "^7.9.0",
@@ -31,13 +36,6 @@
     "typescript": "^3.9.5"
   },
   "dependencies": {
-    "@barba/core": "^2.9.7",
-    "@barba/router": "^2.1.10",
-    "@types/animejs": "^3.1.1",
-    "animejs": "^3.2.0",
-    "bulma": "^0.9.0",
-    "ethereal-color": "^0.0.5",
-    "lodash.throttle": "^4.1.1",
-    "waveform-data": "^3.3.2"
+    "ethereal-color": "^0.0.5"
   }
 }
