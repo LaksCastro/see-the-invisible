@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./src/assets/images/logo.png" width="150">
   <h1 align="center">Colorful</h1>
-  <p align="center">Infinity color palette's, save it or use one of your colors</p>
+  <p align="center">A creational UI based on a Pinterest idea about palette with two colors</p>
   <p align="center">
     <img src="https://img.shields.io/badge/bot-colors-success" alt="PWA installable" />
     <img src="https://img.shields.io/badge/type-project-orange" alt="Repo Type" />
