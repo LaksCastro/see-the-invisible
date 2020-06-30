@@ -27,7 +27,7 @@
     </thead>
     <tbody>
       <td>
-        <a href="https://lakscastro.xyz/dual-colors">Fig 1. Interface</a>
+        <a href="https://lakscastro.github.io/dual-colors">Fig 1. Interface</a>
       </td>
       <td>
         <a href="https://br.pinterest.com/pin/538461699197193701/">Fig 2. Pinterest Idea</a>
@@ -37,7 +37,7 @@
 </p>
 
 ## How to use
-Just open the [Dual Colors Website](https://lakscastro.xyz/dual-colors) and enjoy
+Just open the [Dual Colors Website](https://lakscastro.github.io/dual-colors) and enjoy
 
 ## Clone the repository for your machine
 ### Requirements
