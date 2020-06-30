@@ -26,10 +26,10 @@
     </thead>
     <tbody>
       <td>
-        Fig 1. Interface
+        <a href="https://lakscastro.xyz/dual-colors">Fig 1. Interface</a>
       </td>
       <td>
-        Fig 2. Pinterest Idea
+        <a href="https://br.pinterest.com/pin/538461699197193701/">Fig 2. Pinterest Idea</a>
       </td>
     </tbody>
   </table>
